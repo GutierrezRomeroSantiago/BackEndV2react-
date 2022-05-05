@@ -26,8 +26,6 @@ unicamente estoy manejando una ruta la cual tiene el fin de realizar verificacio
  # USUARIOS DISPONIBLES EN LA APLICACIÓN
  Se deben usar los siguientes usuarios si se quiere acceder a la aplicación (hasta que se habilite el registro)
  
- Username -> Password:
- 
- santi - santi
- perro - perro
- adolfo - adolfo
+ # Username -> Password:
+ # santi - santi
+ # adolfo - adolfo
