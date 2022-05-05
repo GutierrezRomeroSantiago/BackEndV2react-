@@ -29,3 +29,5 @@ unicamente estoy manejando una ruta la cual tiene el fin de realizar verificacio
  # Username -> Password:
  # santi - santi
  # adolfo - adolfo
+ 
+   # SI SE QUIERE HACER LOG-OUT SE DEBEN BORRAR LAS COOKIES Y RECARGAR PÁGINA (Boton log-out no habilitado aun) 
